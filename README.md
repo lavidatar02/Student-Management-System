@@ -10,7 +10,7 @@ The Student Management System is designed to simplify student record management.
 
 ---
 
-## ✨ Features
+## 💡 Features
 
 - 🔐 Secure Login System
 - 🗄️ MySQL Database Integration
