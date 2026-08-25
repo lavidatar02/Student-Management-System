@@ -91,7 +91,7 @@ Password: lavi
 
 ## 📸 Screenshots
    🔐 Login Page
-  ![image alt](https://github.com/lavidatar02/Student-Management-System/blob/main/01_login.png?raw=true)
+  ![Login Page alt](https://github.com/lavidatar02/Student-Management-System/blob/main/01_login.png?raw=true)
   
    📈 Dashboard
   ![Dashboard_alt](https://github.com/lavidatar02/Student-Management-System/blob/main/02_dashboard.png?raw=true)
