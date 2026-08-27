@@ -96,8 +96,7 @@ Password: lavi
    📈 Dashboard
   ![Dashboard_alt](https://github.com/lavidatar02/Student-Management-System/blob/main/02_dashboard.png?raw=true)
   
-   🗄️ Connect Database
-   
+   🗄️ Connect Database 
   ![connect_database_alt](https://github.com/lavidatar02/Student-Management-System/blob/main/03_connect_database.png?raw=true)
   
   🎓 Add Student
