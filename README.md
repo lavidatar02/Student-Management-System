@@ -100,6 +100,7 @@ Password: lavi
   ![connect_database_alt](https://github.com/lavidatar02/Student-Management-System/blob/main/03_connect_database.png?raw=true)
   
   🎓 Add Student
+  
   ![Add Student_alt](https://github.com/lavidatar02/Student-Management-System/blob/main/04_add_student.png?raw=true)
   
   🔍 Search Student
