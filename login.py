@@ -18,9 +18,12 @@ def login():
 
 window = Tk()
 
-window.geometry('1280x700+0+0')
 window.title('Login System of Student Management System')
 
+#Open Window in full Screen/maximized mode
+window.state('zoomed')
+#set the normal/restored window size
+window.geometry('1280x700+0+0')
 window.resizable(True, True)
 
 # Background Image
